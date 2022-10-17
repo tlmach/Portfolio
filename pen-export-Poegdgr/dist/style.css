@@ -1,0 +1,21 @@
+h1 {
+  width:100%;
+  margin:15px;
+  color:black; 
+}
+h2 { width:100%;
+  margin:100;
+  color:black;}
+section {margin: 0 0 2em 0;
+}
+
+ul li  {margin: 0 0 .44em 0; margin: 0 0 .44em 0;padding-left: 30px;
+}
+section { padding-left: 1em;  position: relative;
+}
+img {
+  float: left;
+  height: 500px;
+  width: auto;
+  margin: .36em 4em 0 0;
+}
